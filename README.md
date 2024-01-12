@@ -1,1 +1,1 @@
-Use of Various List Functions
+Use of various list functions
